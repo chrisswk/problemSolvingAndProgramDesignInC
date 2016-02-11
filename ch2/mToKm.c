@@ -1,5 +1,5 @@
 /*
-  Converst diances from miles to kilometers.
+  Converts diances from miles to kilometers.
 */
 
 #include <stdio.h> /* printf, scanf, definitions */
